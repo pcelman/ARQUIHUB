@@ -1,0 +1,23 @@
+form {
+    text-align: center;
+    width: 300px;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+}
+
+label {
+    font-size: 20px;
+    line-height: 40px;
+}
+
+input {
+    line-height: 25px;
+}
+
+button {
+    width: 120px;
+    height: 30px;
+    margin: auto;
+}

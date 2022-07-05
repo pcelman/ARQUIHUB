@@ -1,0 +1,22 @@
+nav {
+    background-color: rgba(0, 0, 0, 0.164);
+    padding: 0 30px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+h3 {
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
