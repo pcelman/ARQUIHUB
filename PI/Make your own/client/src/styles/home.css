@@ -1,0 +1,64 @@
+
+
+       .div-cards {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+
+       } 
+
+       .container-home {
+              background-image: url("./character.jpg");
+              height: 100vh;
+              width: 100%;
+              background-size: cover;
+              background-color: #dbd349;
+              position:fixed;
+              overflow-y: scroll;
+            }
+
+
+            .home-create-button {
+              padding: 1.3em 3em;
+              font-size: 10px;
+              text-transform: uppercase;
+              letter-spacing: 2.5px;
+              font-weight: 500;
+              color: #000;
+              background-color: #fff;
+              border: none;
+              border-radius: 45px;
+              box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+              transition: all 0.3s ease 0s;
+              cursor: pointer;
+              outline: none;
+            }
+            
+            .home-create-button {
+              background-color: #23c483;
+              box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+              color: #fff;
+              transform: translateY(-7px);
+            }
+            
+            .home-create-button {
+              transform: translateY(-1px);
+            }
+/* 
+            .filtros-home {
+              display: flex; 
+               justify-content: space-between;
+               align-items: center; 
+            } */
+
+
+            .titulo-home {
+              text-transform: uppercase;
+              letter-spacing: 4px;
+              font-weight: 500;
+              color: rgb(255, 254, 254);
+
+            }
+/* .filtros-home{
+       background-color: darkgray;
+} */

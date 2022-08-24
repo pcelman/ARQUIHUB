@@ -1,0 +1,32 @@
+.containerLP {
+  background-image: url("./background.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-color: #dbd349;
+  position:absolute;
+}
+
+
+.homeBtnLP {
+ position: relative;
+top: 20vh;
+  left: 0vw;
+  min-width: 70px;
+  height: 70px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-block;
+  outline: none;
+  border-radius: 50px;
+  border: none;
+  background-size: 130% auto;
+  background-color: black
+}
+.homeBtnLP:hover {
+  background-position: right center;
+  transform: scale(1.5);
+}

@@ -1,0 +1,42 @@
+div select {
+    margin-left: 50px;
+    border-radius: 4px;
+    padding: 7px;
+    margin-top: 10px;
+    border: none !important;
+    background-color: rgb(255, 255, 255);
+    color: #31073d;
+    outline: none;
+}
+.card {
+    margin: 35px;
+    width: 17rem; 
+    border-radius: 30px;
+    background: #e0e0e0;
+    box-shadow: 7px 7px 15px #bebebe,
+                -7px -7px 15px #ffffff;
+    transition: all 400ms ease;
+    box-sizing: content-box;
+    min-height: 150px;
+    outline: 5px;
+    outline-color: cadetblue;
+
+}
+
+   
+.name-card{
+  font-family: "Optima, sans-serif";
+  font-size: 20px;
+  color: #000000;
+  text-decoration: none;
+}
+.type {
+    display: flex;
+    color: #3b0218;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    }
+    .type p{
+      margin:0px 7.5px;
+    }
