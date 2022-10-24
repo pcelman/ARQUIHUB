@@ -1,0 +1,34 @@
+.errorDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 100px;
+    background-color: #f7f7f7;
+    height: auto;
+}
+
+.errorTitle{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.errorImg{
+    max-width: 30%;
+}
+
+.errorBtn{
+    height: 50px;
+    border: 2px solid black;
+    background-color: #111;
+    padding: 10px;
+    border-radius: 10px;
+    color: #ddd;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.errorSpan{
+    font-size: 30px;
+}
