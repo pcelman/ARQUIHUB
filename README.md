@@ -3,6 +3,8 @@
 Both architects and programmers work as a group in large projects. We found that there was no way to share files between architects and comment on changes in a centralized manner.
 ARQUIHUB solves this problem allowing users to upload their files, choose their collaborators and have each collaborator upload different updates.
 Even working individually, it is important to have a place to record the changes and be able to go back if necessary and study the different alternatives proposed.
+<br>
+<br>
 
 <img width="1283" alt="Screen Shot 2022-10-24 at 12 02 25" src="https://user-images.githubusercontent.com/100241036/197879196-b1eb2a88-4ead-4a19-8bbd-230edcb415f6.png">
 Landing page
