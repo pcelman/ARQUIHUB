@@ -55,6 +55,6 @@ DB_URI= mongodb+srv://gnz6:MIQZ7VsZxYi2CYjr@cluster0.gyyc1oh.mongodb.net/Arquihu
 CORS_URL = "*" <br>
 PUBLIC_URL=http://localhost:3001/
 <br><br>
-On the Arquihub-Back folder open a terminal, type npm install and after the installation is completed type npm start.
-Open the folder Arquihub-Front, type npm install and after the installation is completed type npm start.
+On the "Arquihub-Back" folder open a terminal, type npm install and after the installation is completed type npm start.<br>
+Open the folder "Arquihub-Front", type npm install and after the installation is completed type npm start.
 If everything is working properly the API should load on your internet browser.
