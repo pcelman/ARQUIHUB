@@ -6,6 +6,8 @@ Even working individually, it is important to have a place to record the changes
 <img width="1283" alt="Screen Shot 2022-10-24 at 12 02 25" src="https://user-images.githubusercontent.com/100241036/197879196-b1eb2a88-4ead-4a19-8bbd-230edcb415f6.png">
 Landing page
 <br>
+<br>
+<br>
 
 <img width="1395" alt="Screen Shot 2022-10-24 at 12 08 03" src="https://user-images.githubusercontent.com/100241036/197879239-d6803ae8-a10b-4e77-84a9-9f781bb35789.png">
 Home page
