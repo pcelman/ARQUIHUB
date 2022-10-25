@@ -50,8 +50,11 @@ Search function:
 To run the project you may want to clone the repository or download the zip file to your computer,
 <br>
 create an .env file in the folder named Arquihub-Back with the following text: <br>
-PORT= 3001 <br>
+PORT= 3001 
 DB_URI= mongodb+srv://gnz6:MIQZ7VsZxYi2CYjr@cluster0.gyyc1oh.mongodb.net/Arquihub?retryWrites=true&w=majority<br>
-CORS_URL = "*" <br>
+CORS_URL = "*" 
 PUBLIC_URL=http://localhost:3001/
-SENDGRID_APIKEY=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
+<br>
+On the Arquihub-Back folder open a terminal, type npm install and after the installation is completed type npm start.
+Open the folder Arquihub-Front, type npm install and after the installation is completed type npm start.
+If everything is working properly the API should load on the internet browser.
