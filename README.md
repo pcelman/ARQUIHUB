@@ -4,6 +4,7 @@ Both architects and programmers work as a group in large projects. We found that
 ARQUIHUB solves this problem allowing users to upload their files, choose their collaborators and have each collaborator upload different updates.
 Even working individually, it is important to have a place to record the changes and be able to go back if necessary and study the different alternatives proposed.
 <br>
+<br>
 Landing page:
 <br>
 <br>
