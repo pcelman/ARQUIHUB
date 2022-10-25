@@ -15,7 +15,7 @@ Home page:
 <br>
 <img width="1395" alt="Screen Shot 2022-10-24 at 12 08 03" src="https://user-images.githubusercontent.com/100241036/197879239-d6803ae8-a10b-4e77-84a9-9f781bb35789.png">
 <br>
-Home page:
+Home page (cont.):
 <br>
 <br>
 <img width="1394" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png">
