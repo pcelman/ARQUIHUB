@@ -1,19 +1,3 @@
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<div>This is a div.</div>
-
-
-
 <p> <b>ARQUI</b>HUB</p>
 <br>
 Both architects and programmers work as a group in large projects. We found that there was no way to share files between architects and comment on changes in a centralized manner.
@@ -63,4 +47,3 @@ Search function:
 <br>
 <br>
 <br>
-</body></html>
