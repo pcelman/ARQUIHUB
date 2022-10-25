@@ -1,4 +1,4 @@
-<h1> <strong>ARQUI</strong>HUB</h1>
+<p> <b>ARQUI</b>HUB</p>
 <br>
 Both architects and programmers work as a group in large projects. We found that there was no way to share files between architects and comment on changes in a centralized manner.
 ARQUIHUB solves this problem allowing users to upload their files, choose their collaborators and have each collaborator upload different updates.
