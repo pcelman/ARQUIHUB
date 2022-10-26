@@ -51,7 +51,6 @@ To run the project you may want to download the zip file to your computer,
 <br>
 create an .env file in the folder "Arquihub-Back" with the following text: <br><br>
 PORT= 3001 <br>
-DB_URI= mongodb+srv://gnz6:MIQZ7VsZxYi2CYjr@cluster0.gyyc1oh.mongodb.net/Arquihub?retryWrites=true&w=majority<br>
 CORS_URL = "*" <br>
 PUBLIC_URL=http://localhost:3001/
 <br><br>
