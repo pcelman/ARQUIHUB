@@ -1,0 +1,120 @@
+.projects {
+  width: 100%;
+  background-color: rgb(250, 241, 230);
+}
+
+.projects .container {
+  width: 100%;
+  margin: 4rem auto;
+  padding: 4rem 0rem;
+}
+
+.container__title {
+  font-size: 3rem;
+  text-align: center;
+}
+
+
+.projects .container .content {
+  max-width: 1024px;
+  width: 80%;
+  margin: 4rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  flex-basis: 20rem;
+  align-items: stretch;
+}
+
+.project {
+  margin: auto;
+  padding: 2rem 2rem 4rem 2rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgb(0, 0, 0, 0.2);
+  flex-basis: 20rem;
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  justify-content: space-between;
+  /* flex: .5; */
+}
+
+.project__image {
+  margin: auto;
+}
+
+.project__title {
+  padding-top: 1rem;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.project__paragraph {
+  padding-top: 20px;
+  color: #787878;
+  font-size: 1.1rem;
+  margin: 20px;
+}
+
+.project__icon-center {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  color: rgb(134, 134, 134);
+}
+
+.project a {
+  display: flex;
+  color: rgb(134, 134, 134);
+}
+
+.project__icon:hover {
+  color: var(--accent-color);
+}
+
+.project__icon-center-github:hover {
+  color: var(--accent-color);
+}
+
+.project__icon-center-world:hover {
+  color: var(--accent-color);
+}
+
+.projects .cards span {
+  color: var(--accent-color);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 1000px) {
+  .projects .container {
+    width: 100%;
+  }
+
+  .project {
+    margin: 1rem;
+  }
+
+  .project__paragraph {
+    margin: 0rem 0rem;
+  }
+
+}
+@media screen and (max-width: 480px) {
+  .project {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .project__img {
+    margin-left: -13.5px;
+  }
+}
+@media screen and (max-width: 330px) {
+  .project__img {
+    margin: auto;
+    width: 275px;
+  }
+}

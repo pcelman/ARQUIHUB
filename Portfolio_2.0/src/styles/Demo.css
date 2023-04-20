@@ -1,0 +1,108 @@
+.demo {
+  width: 100%;
+  background-color: var(--butter);
+}
+
+.demo h2 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.demo .container {
+  width: 80%;
+  margin: auto;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border: 1px solid #eee;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgb(0, 0, 0, 0.2);
+}
+
+.demo .demo__text {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  color: #3a3939;
+}
+
+.demo__project {
+  padding-top: 3px;
+  color: #3a3939;
+}
+.demo__paragraph {
+  padding-top: 20px;
+  color: #787878;
+  font-size: 1.1rem;
+}
+.demo .demo__text p:nth-child(1) {
+  font-style: italic;
+  font-size: 1.8rem;
+}
+
+.demo .demo__text p:nth-child(2) {
+  margin: 0.5rem 0;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.demo .demo__text p:nth-child(3) {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.demo .demo__video {
+  margin: auto;
+}
+
+.box {
+  height: 40rem;
+}
+
+
+@media screen and (max-width: 940px) {
+  .demo .container {
+    max-width: 90%;
+    grid-template-columns: 1fr;
+    grid-gap: 30px;
+  }
+
+  .demo .container p {
+    margin-left: 0rem;
+  }
+
+  .demo iframe {
+    width: 100%;
+    height: auto;
+  }
+}
+@media screen and (max-width: 480px) {
+  .demo .container {
+    max-width: 90%;
+    grid-template-columns: 1fr;
+    grid-gap: 30px;
+  }
+
+  .demo .container p {
+    margin-left: 0rem;
+  }
+
+  .demo iframe {
+    width: 100%;
+    height: auto;
+  }
+  .demo .container .demo__text h3 {
+    font-size: 1.4rem;
+    margin-top: -2rem;
+    margin-bottom: -2rem;
+  }
+  .demo .container .demo__text p {
+  
+
+font-size: 1rem;
+  }
+  .demo__video {
+    margin-top: -1rem;
+    padding-top: -1rem;
+  }
+}
