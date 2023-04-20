@@ -71,6 +71,7 @@ const About = () => {
                 target="_blank"
                 rel="noreferrer noopener"
               >
+                
                 <IoLogoJavascript
                   size={35}
                   className="skills__icon"
